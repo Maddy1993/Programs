@@ -84,4 +84,3 @@ def find_max():
 
 if __name__ == '__main__':
     read_input()
-    l=1
